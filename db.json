@@ -35,17 +35,88 @@
   "ds-rag": {
     "item": [
       {
-        "value": 16,
-        "text": "Long past due"
+        "value": 3,
+        "text": "> 1 hora"
+      },
+      {
+        "value": 15,
+        "text": "< 1 hora"
       },
       {
         "value": 64,
-        "text": "Overdue"
-      },
-      {
-        "value": 32,
-        "text": "Due"
+        "text": "< 30 min"
       }
     ]
-  }    
+  },
+  "ds-linechart": {
+    "y_axis": {
+      "format": "currency",
+      "unit": "USD"
+    },
+    "series": [
+      {
+        "name": "GBP -> USD",
+        "data": [
+          1.62529,
+          1.56991,
+          1.50420,
+          1.52265,
+          1.55356,
+          1.51930,
+          1.52148,
+          1.51173,
+          1.55170,
+          1.61966,
+          1.59255,
+          1.63762
+        ]
+      }
+    ]
+  },
+  "ds-list": {
+    "format": "currency",
+    "unit": "GBP",
+    "items": [
+      {
+        "label": "Peter",
+        "value": 234.4
+      },
+      {
+        "label": "Patrick",
+        "value": 232
+      },
+      {
+        "label": "Jon",
+        "value": 230.45
+      },
+      {
+        "label": "Clara",
+        "value": 220
+      },
+      {
+        "label": "Tom",
+        "value": 215.578
+      },
+      {
+        "label": "Sylvester",
+        "value": 200
+      },
+      {
+        "label": "David",
+        "value": 195
+      },
+      {
+        "label": "Matt",
+        "value": 190
+      },
+      {
+        "label": "William",
+        "value": 185.679
+      },
+      {
+        "label": "Rose",
+        "value": 182
+      }
+    ]
+  }
 }
