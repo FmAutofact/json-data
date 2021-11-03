@@ -1,42 +1,47 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "ds-barchart": {
+    "x_axis": {
+      "labels": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+      ]
     },
-    "dataset": {
-        "x_axis": {
-          "labels": [
-            "2000",
-            "2001",
-            "2002",
-            "2003",
-            "2004",
-            "2005"
-          ]
-        },
-        "y_axis": {
-          "format": "currency",
-          "unit": "USD"
-        },
-        "series": [
-          {
-            "data": [
-              1000,
-              1500,
-              30600,
-              28800,
-              22300,
-              36900
-            ]
-          }
+    "y_axis": {
+      "format": "currency",
+      "unit": "USD"
+    },
+    "series": [
+      {
+        "data": [
+          1000,
+          1500,
+          30600,
+          28800,
+          22300,
+          36900
         ]
-    }
+      }
+    ]
+  },
+  "ds-monitoring": {
+    "status": "Up",
+    "downTime": "9 days ago",
+    "responseTime": "593 ms"
+  }
 }
