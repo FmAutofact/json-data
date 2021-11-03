@@ -51,12 +51,12 @@
   "ds-linechart": {
     "x_axis": {
       "labels": [
-        "2000",
-        "2001",
-        "2002",
-        "2003",
-        "2004",
-        "2005"
+        "16:35",
+        "16:40",
+        "16:45",
+        "16:50",
+        "16:55",
+        "17:00"
       ]
     },
     "y_axis": {
@@ -76,50 +76,20 @@
       }
     ]
   },
-  "ds-list": {
-    "format": "currency",
-    "unit": "GBP",
+  "ds-leaderboard": {
+    "format": "decimal",
+    "unit": "min",
     "items": [
-      {
-        "label": "Peter",
-        "value": 234.4
-      },
-      {
-        "label": "Patrick",
-        "value": 232
-      },
-      {
-        "label": "Jon",
-        "value": 230.45
-      },
-      {
-        "label": "Clara",
-        "value": 220
-      },
-      {
-        "label": "Tom",
-        "value": 215.578
-      },
-      {
-        "label": "Sylvester",
-        "value": 200
-      },
-      {
-        "label": "David",
-        "value": 195
-      },
-      {
-        "label": "Matt",
-        "value": 190
-      },
-      {
-        "label": "William",
-        "value": 185.679
-      },
-      {
-        "label": "Rose",
-        "value": 182
-      }
+      {"label": "CL-100 DVLX95", "value": "329377"},
+      {"label": "CL-100 FSTP87", "value": "329374"},
+      {"label": "CL-100 HBSK54", "value": "329278"},
+      {"label": "CL-100 JBRC65", "value": "329359"},
+      {"label": "CL-100 JSCB71", "value": "329329"},
+      {"label": "CL-100 JYDP33", "value": "329380"},
+      {"label": "CL-100 KGDY11", "value": "329356"},
+      {"label": "CL-100 LBCT10", "value": "329347"},
+      {"label": "CL-100 LBXG66", "value": "329279"},
+      {"label": "CL-100 LCKK83", "value": "329346"}
     ]
   }
 }
