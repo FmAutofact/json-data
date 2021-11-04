@@ -35,7 +35,7 @@
   "ds-rag": {
     "item": [
       {
-        "value": 3,
+        "value": 20,
         "text": "> 1 hora"
       },
       {
@@ -43,7 +43,7 @@
         "text": "< 1 hora"
       },
       {
-        "value": 64,
+        "value": 1,
         "text": "< 30 min"
       }
     ]
