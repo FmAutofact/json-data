@@ -36,15 +36,15 @@
     "item": [
       {
         "value": 20,
-        "text": "> 1 hora"
+        "text": "> 60 minutos"
       },
       {
         "value": 15,
-        "text": "< 1 hora"
+        "text": "> 30 minutos"
       },
       {
         "value": 1,
-        "text": "< 30 min"
+        "text": "< 30 minutos"
       }
     ]
   },
