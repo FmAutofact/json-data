@@ -48,48 +48,36 @@
       }
     ]
   },
-  "ds-linechart": {
-    "x_axis": {
-      "labels": [
-        "16:35",
-        "16:40",
-        "16:45",
-        "16:50",
-        "16:55",
-        "17:00"
-      ]
-    },
-    "y_axis": {
-      "format": "decimal",
-      "unit": "#"
-    },
-    "series": [
-      {
-        "data": [
-          1000,
-          1500,
-          30600,
-          28800,
-          22300,
-          36900
-        ]
-      }
-    ]
+  "ds-gauge": {
+    "item":333,"min":{"value":"0"},"max":{"value":"60"}
   },
   "ds-leaderboard": {
-    "format": "decimal",
-    "unit": "min",
-    "items": [
-      {"label": "CL-100 DVLX95", "value": "329377"},
-      {"label": "CL-100 FSTP87", "value": "329374"},
-      {"label": "CL-100 HBSK54", "value": "329278"},
-      {"label": "CL-100 JBRC65", "value": "329359"},
-      {"label": "CL-100 JSCB71", "value": "329329"},
-      {"label": "CL-100 JYDP33", "value": "329380"},
-      {"label": "CL-100 KGDY11", "value": "329356"},
-      {"label": "CL-100 LBCT10", "value": "329347"},
-      {"label": "CL-100 LBXG66", "value": "329279"},
-      {"label": "CL-100 LCKK83", "value": "329346"}
-    ]
+    "items":[
+      {"label":"CL-45","value":69},
+      {"label":"MX-484102","value":9},
+      {"label":"MX-484046","value":20},
+      {"label":"PE-604043","value":6},
+      {"label":"CL-101","value":42},
+      {"label":"CL-100","value":15},
+      {"label":"MX-484043","value":40},
+      {"label":"CL-152015","value":12},
+      {"label":"MX-484047","value":34},
+      {"label":"CO-356","value":1},
+      {"label":"CL-110","value":9},
+      {"label":"PE-604015","value":1},
+      {"label":"CL-152101","value":10},
+      {"label":"CL-43","value":25},
+      {"label":"PE-604046","value":2},
+      {"label":"PE-604045","value":11},
+      {"label":"CL-56","value":3},
+      {"label":"CL-111","value":1},
+      {"label":"CL-55","value":1},
+      {"label":"PE-256","value":1},
+      {"label":"CO-170046","value":17},
+      {"label":"CL-152110","value":1},
+      {"label":"MX-484045","value":1},
+      {"label":"MX-484100","value":2}
+    ],
+    "format":"decimal"
   }
 }
