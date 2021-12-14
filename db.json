@@ -27,10 +27,9 @@
       }
     ]
   },
-  "ds-monitoring": {
-    "status": "Up",
-    "downTime": "9 days ago",
-    "responseTime": "593 ms"
+  "ds-leaderboard-country": {
+    "items":[{"label":"CL","value":188},{"label":"MX","value":106},{"label":"PE","value":21},{"label":"CO","value":18}],
+    "format":"decimal"
   },
   "ds-rag": {
     "item": [
