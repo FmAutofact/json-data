@@ -49,7 +49,7 @@
     ]
   },
   "ds-gauge": {
-    "item":333,"min":{"value":"0"},"max":{"value":"60"}
+    "item":33,"min":{"value":"0"},"max":{"value":"60"}
   },
   "ds-leaderboard": {
     "items":[
