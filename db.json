@@ -1,31 +1,15 @@
 {
-  "ds-barchart": {
-    "x_axis": {
-      "labels": [
-        "2000",
-        "2001",
-        "2002",
-        "2003",
-        "2004",
-        "2005"
-      ]
-    },
-    "y_axis": {
-      "format": "currency",
-      "unit": "USD"
-    },
-    "series": [
-      {
-        "data": [
-          1000,
-          1500,
-          30600,
-          28800,
-          22300,
-          36900
-        ]
-      }
-    ]
+  "ds-leaderboard-co-pe": {
+    "items":[
+      {"label":"PE-604043","value":6},
+      {"label":"CO-356","value":1},
+      {"label":"PE-604015","value":1},
+      {"label":"PE-604046","value":2},
+      {"label":"PE-604045","value":11},
+      {"label":"PE-256","value":1},
+      {"label":"CO-170046","value":17},
+    ],
+    "format":"decimal"
   },
   "ds-leaderboard-country": {
     "items":[{"label":"CL","value":188},{"label":"MX","value":106},{"label":"PE","value":21},{"label":"CO","value":18}],
